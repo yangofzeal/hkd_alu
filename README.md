@@ -244,3 +244,7 @@ hkd_alu_product/
 Add your own license terms, checkout URL, packaging metadata, and distribution mechanism before publication.
 
 For a commercial release, keep the free and paid public APIs identical so users can upgrade without changing application code.
+
+## Buy Unlimited
+
+https://buy.stripe.com/fZu3cog9d9Aj8rE4sDgUM0j
